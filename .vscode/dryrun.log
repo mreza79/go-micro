@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/mohammadrezajamali/Desktop/Computer Engineerting/Web Development/go-micro'
+make: Leaving directory `/Users/mohammadrezajamali/Desktop/Computer Engineerting/Web Development/go-micro'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
